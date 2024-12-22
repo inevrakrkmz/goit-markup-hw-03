@@ -128,13 +128,54 @@ letter-spacing: 0.02em;
 }
 .logo-footer{
     color:#2e2f42;
-    
-    
 }
 
 
+.header {
+    border-bottom: 1px solid #e7e9fc
+}
 
-    
+.header-div{
+    display: flex;
+}
+
+.container {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+
+.header-enav {
+    display: flex;
+    align-items: center;
+
+}
+
+.logo {
+    margin-right: 76px;
+
+}
+
+.nav-ul {
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+}
+.nav-bar {padding: 24px 0;
+}
+
+.adress-ul {
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+}
+.address-bar {
+    display: flex;
+    gap: 40px;
+}
+ 
+
 
 
 
