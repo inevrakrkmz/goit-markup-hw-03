@@ -10,7 +10,8 @@ a.logo {
     letter-spacing: 0.03;
     text-transform: uppercase;
     color:#4d5ae5 ;
-    letter-spacing: 0.03em}
+    letter-spacing: 0.03em;
+    text-decoration: none;}
 
 .logo span { 
     color:#2e2f42; }
@@ -20,6 +21,7 @@ a.logo {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42 ;
+    text-decoration: none;
 }
 .nav-bar:hover {
     color:#404bbf  ;
@@ -33,7 +35,9 @@ a.logo {
 .adress-item{
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;}
+    color: #434455;
+     text-decoration: none;}
+
 
 .adress-item:hover {
     color: #404bbf;}
@@ -47,7 +51,7 @@ a.logo {
      }
 
 .fshh {
-    font: size 56px;
+    font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02;
@@ -130,6 +134,8 @@ letter-spacing: 0.02em;
     color:#2e2f42;
 }
 
+img {
+    display: block; }
 
 .header {
     border-bottom: 1px solid #e7e9fc
@@ -175,6 +181,27 @@ letter-spacing: 0.02em;
     gap: 40px;
 }
  
+.first-section {
+    padding: 188px 0;
+}
+ 
+.fshh {
+    max-width: 496px;
+    max-height: 120px;
+    text-align: center;
+}
+
+.fs-button{
+    display: block;
+    margin: 0 auto;
+    min-width: 169px;
+    height:56px ;
+    border: none;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
 
 
 
