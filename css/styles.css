@@ -246,9 +246,12 @@ img {
     padding: 120px 0; 
 }
 
-.ikinci.düzenleme {
+.ikinci-düzenleme {
     flex-basis: calc((100% - 72px) / 4)
-    border-top-left-radius: 0px; border-top-right-radius: 0px; border-top-right-radius: 4px; border-bottom-left-radius: 4px;
+    border-top-left-radius: 0px; 
+    border-top-right-radius: 0px; 
+    border-bottom-right-radius: 4px; 
+    border-bottom-left-radius: 4px;
 }
 
 .team-ul {
@@ -270,8 +273,8 @@ img {
 .port-section {
     padding: 120px 0;
 }
-.ikinci-hiki{
-    margin-bottom: 72px 0;
+.ikinci-iki{
+    margin-bottom: 72px;
 }
 
 .port-ul {
@@ -294,6 +297,6 @@ img {
     display: inline-block;
     margin-bottom: 16px;
     }
-.footer-üc-p {
+.footer-p-üc {
     max-width: 264px;
 }    
