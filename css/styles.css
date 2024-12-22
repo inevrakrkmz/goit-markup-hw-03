@@ -1,0 +1,138 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF}
+a.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03;
+    text-transform: uppercase;
+    color:#4d5ae5 ;
+    letter-spacing: 0.03em}
+
+.logo span { 
+    color:#2e2f42; }
+
+.nav-bar {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42 ;
+}
+.nav-bar:hover {
+    color:#404bbf  ;
+}
+.nav-bar:focus {
+    color:#404bbf ;
+}
+.adress-bar {
+    font-style: normal
+}
+.adress-item{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.adress-item:hover {
+    color: #404bbf;}
+
+.adress-item:focus {
+    color: #404bbf;
+}
+
+.first-section{
+     background-color: #2e2f42;
+     }
+
+.fshh {
+    font: size 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02;
+    color: #FFFFFF;
+}
+.fs-button{
+    background-color: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.fs-button:hover {
+background-color: #404bbf;}
+
+.fs-button:focus {
+    background-color: #404bbf;
+}
+.li-h {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02;
+color: #2e2f42;
+}
+
+.li-p {
+line-height: 1.5;
+letter-spacing: 0.02em; 
+}
+.third-sec {
+    background-color:#f4f4fd ;
+}
+.ts-h {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.our-team {
+    background-color: #FFFFFF;
+}
+.ourteam-h {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.ourteam-p{
+    font-size: 16px;
+    line-height:1.5;
+    letter-spacing: 0.02em;
+}
+.our-port {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.footer { 
+    background-color: #2e2f42;
+
+}
+.footer-p {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
+.logo-footer{
+    color: color: #2e2f42;
+    
+}
+
+
+    
+
+
+
