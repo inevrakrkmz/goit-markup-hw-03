@@ -124,6 +124,7 @@ letter-spacing: 0.02em;
 }
 .footer { 
     background-color: #2e2f42;
+    padding: 100px 0;
 
 }
 .footer-p {
@@ -266,4 +267,33 @@ img {
 .name-job-p {
     text-align: center;
 }
+.port-section {
+    padding: 120px 0;
+}
+.ikinci-hiki{
+    margin-bottom: 72px 0;
+}
 
+.port-ul {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px; 
+    list-style-type: none;
+}
+.port-li {
+    width: calc((100% - 72px) / 4);
+}
+.app-do{
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc ;
+    border-top: none;
+    margin: 8px;
+}
+.footer-üc {
+    display: inline-block;
+    margin-bottom: 16px;
+    }
+.footer-üc-p {
+    max-width: 264px;
+}    
