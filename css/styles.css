@@ -203,6 +203,32 @@ img {
 
 }
 
+.about-us{
+    padding: 120px 0;
+}
 
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap; /* Satır kaymasını önler */
+    border: 0;
+}
 
+.about-ul {
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
+}
 
+.about-li {
+    width: calc((100% - 72px) / 4);
+
+}
+.li-h {
+    margin-bottom: 8 px;
+    }
